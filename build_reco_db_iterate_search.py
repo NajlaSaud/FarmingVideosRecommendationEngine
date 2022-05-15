@@ -12,7 +12,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
 
 # Get API key
-API_KEY = 'AIzaSyDh8g550F3L5Hi4-pcVYAp6IyjkjPoEKO4'
+API_KEY = 'Add your YouTube API key here'
 
 # Build YouTube variable
 youtube = build('youtube', 'v3', developerKey=API_KEY)
