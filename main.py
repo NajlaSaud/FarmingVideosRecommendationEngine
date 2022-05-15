@@ -41,3 +41,4 @@ cursor = conn.cursor()
 
 result = cursor.execute("SELECT video_id FROM VIDEO WHERE video_url_id = '" + video_ids[0] + "'")
 print(engine.get_recommendations(result.fetchone()[0]))
+
