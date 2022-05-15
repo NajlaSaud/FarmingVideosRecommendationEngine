@@ -38,6 +38,14 @@ The idea of the recommendation engine is inspired by products recommendation eng
  
 (See: https://github.com/scottfitzcodes/rec-engine-example)
 
+## Screenshots
+The final result of the project is shown in the following screenshot, where we enter a search word: "Farming in the desert", and as we can see, it returns a list of video URL ids. This list is ranked based on the relatedness of the videos to the search word.
+
+
+![App Screenshot](https://github.com/NajlaSaud/FarmingVideosRecommendationEngine/blob/master/images/search%20word.png?raw=true)
+![App Screenshot](https://github.com/NajlaSaud/FarmingVideosRecommendationEngine/blob/master/images/run%20result.png?raw=true)
+
+
 # Conclusion
 We reach the end of the project. Thanks for your patience. We hope that you benefit from this project.
 
