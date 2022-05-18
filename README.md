@@ -1,7 +1,7 @@
 
 # Farming Videos Recommendation Engine
 
-Farming Videos Recommendation Engine is a project done at Farming by Faith Company, South Africa. This project aims to rank videos about farming when the user enter a search word, it returns a list of videos that is most related to the search word. All videos and video data is taken from YouTube, which requires using YouTube Data API. 
+Farming Videos Recommendation Engine is a project done at [Farming by Faith Company, South Africa](https://farmingbyfaith.co.za/). This project aims to rank videos about farming when the user enter a search word, it returns a list of videos that is most related to the search word. All videos and video data is taken from YouTube, which requires using YouTube Data API. 
 
 The project consists of tow stages:
 
